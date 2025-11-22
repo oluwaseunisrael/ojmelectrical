@@ -1,0 +1,41 @@
+ 
+        .card-body {
+            font-size: 1rem;
+        }
+
+        .card-footer {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .card-footer i {
+            font-size: 1.5rem;
+        }
+
+        .chart-container {
+            position: relative;
+            height: 400px;
+            width: 100%;
+        }
+
+        .container-fluid {
+            padding: 0 15px;
+        }
+
+        .row {
+            margin-bottom: 20px;
+        }
+  #calendarDiv{   font-family: tahoma, geneva, sans-serif;}
+#titleDiv{  font-size:20px; margin-bottom:5px;}
+#ticksDiv{  display:flex;   flex-wrap:wrap;}
+.ticks{
+    color:#BDBDBD;
+    font-size: 10px;
+    text-align:center;
+    flex-grow: 1;
+    flex-basis: 0;
+    margin-bottom:5px;
+}
+       
+  
